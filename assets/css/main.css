@@ -2,21 +2,21 @@
 
 @font-face {
     font-family: "Raleway";
-    src: url(/assets/fonts/Raleway/static/Raleway-Medium.ttf) format("truetype");
+    src: url(../fonts/Raleway/static/Raleway-Medium.ttf) format("truetype");
     font-style: normal;
     font-weight: normal;
 }
 
 @font-face {
     font-family: "Raleway-Bold";
-    src: url(/assets/fonts/Raleway/static/Raleway-Bold.ttf) format("truetype");
+    src: url(../fonts/Raleway/static/Raleway-Bold.ttf) format("truetype");
     font-style: normal;
     font-weight: bold;
 }
 
 @font-face {
     font-family: "Raleway-Bolder";
-    src: url(/assets/fonts/Raleway/static/Raleway-Black.ttf) format("truetype");
+    src: url(../fonts/Raleway/static/Raleway-Black.ttf) format("truetype");
     font-style: normal;
     font-weight: bolder;
 }
@@ -42,7 +42,7 @@ html {
     border-bottom: 1px solid var(--cor-azul-base-light);
     padding-top: 3.5rem;
 
-    background-image: linear-gradient(rgba(0, 0, 0, 0.6), rgba(49, 168, 221, .2), rgba(0, 0, 0, .6)), url(/assets/images/banner.png);
+    background-image: linear-gradient(rgba(0, 0, 0, 0.6), rgba(49, 168, 221, .2), rgba(0, 0, 0, .6)), url(../images/banner.png);
     background-position: 0, 0 -50px;
     background-size: cover;
     background-repeat: no-repeat;

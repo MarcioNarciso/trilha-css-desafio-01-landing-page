@@ -148,7 +148,7 @@ main {
     /* height: 23rem; */
     padding: 200px;
 
-    background-image: url(/assets/images/woman-code.png);
+    background-image: url(../images/woman-code.png);
     background-size: cover;
     background-repeat: no-repeat;
     background-attachment: fixed;
